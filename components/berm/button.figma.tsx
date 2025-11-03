@@ -1,5 +1,5 @@
 /**
- * @figmaId <FIGMA_COMPONENT_ID>
+ * @figmaId 21-9
  * @component Button
  */
 import * as React from "react";
