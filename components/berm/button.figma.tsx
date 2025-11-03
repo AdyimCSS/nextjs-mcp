@@ -1,6 +1,8 @@
 /**
- * @figmaId 21-9
+ * @figmaId 21:8
  * @component Button
+ * 
+ * Figma Link: https://www.figma.com/design/J2LLnfBQi1MCjF2DREqdrD/nextjs-mcp?node-id=21-8
  */
 import * as React from "react";
 import { Button } from "../ui/button";
