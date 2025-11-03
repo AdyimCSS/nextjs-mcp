@@ -1,5 +1,5 @@
 /**
- * @figmaId 21:8
+ * @figmaId 21:9
  * @component Button
  * 
  * Figma Link: https://www.figma.com/design/J2LLnfBQi1MCjF2DREqdrD/nextjs-mcp?node-id=21-8
