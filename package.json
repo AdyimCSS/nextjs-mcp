@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "code-connect": "code-connect"
+    "code-connect": "figma connect",
+    "code-connect:publish": "figma connect publish",
+    "code-connect:parse": "figma connect parse",
+    "code-connect:unpublish": "figma connect unpublish"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.12",
