@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-mcp",
+  "figmaFileKey": "J2LLnfBQi1MCjF2DREqdrD",
+  "figmaFileUrl": "https://www.figma.com/design/J2LLnfBQi1MCjF2DREqdrD/nextjs-mcp",
+  "codeConnectVersion": "1.0.0",
+  "components": [
+    {
+      "name": "Button",
+      "figmaNodeId": "0:1",
+      "source": "./components/Button.tsx"
+    }
+  ]
+}
+

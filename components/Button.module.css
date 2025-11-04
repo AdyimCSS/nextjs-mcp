@@ -1,0 +1,66 @@
+.button {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+  border-radius: 0.5rem;
+  transition: all 0.2s;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.button:focus {
+  outline: none;
+  ring: 2px;
+  ring-offset: 2px;
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Variants */
+.primary {
+  background-color: #2563eb;
+  color: white;
+}
+
+.primary:hover:not(:disabled) {
+  background-color: #1d4ed8;
+}
+
+.secondary {
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+.secondary:hover:not(:disabled) {
+  background-color: #d1d5db;
+}
+
+.outline {
+  border: 2px solid #d1d5db;
+  background-color: transparent;
+  color: #374151;
+}
+
+.outline:hover:not(:disabled) {
+  background-color: #f9fafb;
+}
+
+/* Sizes */
+.small {
+  padding: 0.375rem 0.75rem;
+  font-size: 0.875rem;
+}
+
+.medium {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+
+.large {
+  padding: 0.75rem 1.5rem;
+  font-size: 1.125rem;
+}
+
