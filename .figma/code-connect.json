@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-mcp",
+  "version": "1.0.0",
+  "languages": [
+    {
+      "name": "typescript",
+      "extension": ".tsx"
+    }
+  ],
+  "components": [
+    {
+      "source": "components/Button.tsx",
+      "target": "figmaFileKey",
+      "figmaNodeName": "Button"
+    },
+    {
+      "source": "components/Card.tsx",
+      "target": "figmaFileKey",
+      "figmaNodeName": "Card"
+    }
+  ]
+}
+
